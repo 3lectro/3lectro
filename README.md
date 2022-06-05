@@ -1,0 +1,5 @@
+- 👋 Hi, I’m 3lectro
+- 👀 I’m interested in ... Architecture
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ... Anything
+- 📫 How to reach me ... 
